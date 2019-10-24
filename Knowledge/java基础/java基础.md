@@ -1,6 +1,6 @@
 #### 关于java
 
-1. JVM JDK JRE的区别?
+- JVM JDK JRE的区别?
 
 (是什么-做什么-效果)
 
@@ -24,7 +24,7 @@ JDK：Java开发工具包(Java Development Kit)。
 
 <br>
 
-2. 	源代码到运行的步骤？
+- 源代码到运行的步骤？
 
 ①编译：源文件由编译器编译成字节码。
 	
@@ -44,25 +44,34 @@ JDK：Java开发工具包(Java Development Kit)。
 
 #### 数据类型
 
-1. **基本数据类型有多少种?**
+- **基本数据类型有多少种?**
 
-2. String是基本数据类型吗？
 
-3. float f=3.4; 正确？long l = 3; 正确？
+- String是基本数据类型吗？
 
-4. short s1 = 1; s1 = s1 + 1; 正确?short s1 = 1; s1 += 1; 正确？
+
+- float f=3.4; 正确？long l = 3; 正确？
+
+
+- short s1 = 1; s1 = s1 + 1; 正确?short s1 = 1; s1 += 1; 正确？
 	
-5. int和Integer区别？
 
-6. switch是否能作用在byte上，是否能作用在long上，是否能作用在String上？
+- int和Integer区别？
+
+
+- switch是否能作用在byte上，是否能作用在long上，是否能作用在String上？
 
 ##### 运算符与数学函数
 
-1. 2乘以8 最有效率的方法？
 
-2. Math.round(11.5) 等于多少？Math.round(-11.5)等于多少？
+- 2乘以8 最有效率的方法？
 
-3. 如何求平方根？幂运算？
 
-4. 取模和取余?
+- Math.round(11.5) 等于多少？Math.round(-11.5)等于多少？
+
+
+- 如何求平方根？幂运算？
+
+
+- 取模和取余?
 
