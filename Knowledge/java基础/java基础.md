@@ -2,7 +2,7 @@
 
 #### 名词解释
 
-1. JVM JDK JRE的区别?
+1. `JVM JDK JRE的区别?`
 
 (是什么-做什么-效果)
 
@@ -22,9 +22,9 @@ JDK：Java开发工具包(Java Development Kit)。
 
 	JDK内部包含JVM标准实现、Java核心类库和Java的开发工具(如编译器和调试器)。开发工具的作用是使开发人员能够编写并调试java程序。
 
-*总结*：JDK包括JRE，JRE包括JVM。
+**总结**：JDK包括JRE，JRE包括JVM。
 	
-2. 源代码到运行的步骤？
+2. `源代码到运行的步骤？`
 
 ①编译：源文件由编译器编译成字节码。
 	
