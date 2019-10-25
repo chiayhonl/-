@@ -1,27 +1,24 @@
 package TEST;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Set;
-import java.util.TreeSet;
+interface test  {
+    public static final int a = 3;
 
-public class SetList {
+     default void print() {
+
+    }
+}
+
+abstract class test1{
+    public final int a = 3;
+}
+
+public class SetList implements test{
     public static void main(String[] args) {
-        Set<Integer> set = new TreeSet<>();
-        List<Integer> list = new ArrayList<>();
 
-        for (int i = -3; i < 3; i++) {
-            set.add(i);
-            list.add(i);
-        }
+    }
 
-        System.out.println(set + " " + list);
+    @Override
+    public void print() {
 
-        for (int i = 0; i < 3; i++) {
-            set.remove(i);
-            list.remove(Integer.valueOf(i) );
-        }
-
-        System.out.println(set + " " + list);
     }
 }
