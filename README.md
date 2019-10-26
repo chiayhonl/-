@@ -6,9 +6,7 @@
 
 #### 关于java
 
-
 - JVM JDK JRE的区别?
-
 
 - 源代码到运行的步骤？
 
@@ -54,6 +52,9 @@
 
 - 接口和抽象类的区别是什么？
 
+- String 、 StringBuilder 、 StringBuffer区别？
+
+- final、finally、finalize 的区别？
 
 #### 集合
 
