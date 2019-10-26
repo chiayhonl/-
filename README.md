@@ -2,15 +2,15 @@
 
 ## 一. java SE部分
 
-[1. java基础](/Knowledge/java基础/java基础.md)
+[1. java基础](/Knowledge/java基础/0、java基础.md)
 
-#### 关于java
+[关于java](/Knowledge/java基础/1、关于java.md)
 
 - JVM JDK JRE的区别?
 
 - 源代码到运行的步骤？
 
-#### 数据类型
+[数据类型](/Knowledge/java基础/2、数据类型.md)
 
 
 - ***基本数据类型有多少种?***
@@ -30,7 +30,7 @@
 
 - switch是否能作用在byte上，是否能作用在long上，是否能作用在String上？
 
-#### 运算符与数学函数
+[运算符与数学函数](/Knowledge/java基础/3、运算符与数学函数.md)
 
 
 - 2乘以8 最有效率的方法？
@@ -44,7 +44,7 @@
 
 - 取模和取余?
 
-#### 面向对象
+[面向对象](/Knowledge/java基础/4、面向对象.md)
 
 - 面向对象三大特性？
 
