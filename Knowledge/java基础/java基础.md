@@ -135,5 +135,11 @@
 		
 		②StringBuilder线程不安全，适用于单线程、 StringBuffer安全，因为方法里加了同步锁，适用于并发访问，
 			
+- final、finally、finalize 的区别？
+
+	final用来修饰类、属性、方法，分别代表不可继承，不可变，不可重写。
 	
+	finally是异常处理结构的一部分，代表着总是执行
+	
+	finalize是Object类的方法，在垃圾回收时会调用被回收对象的finalize方法。
 	                                                                                                                                                                                                                                                                                       

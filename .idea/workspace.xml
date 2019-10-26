@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04ac1375-e822-4afc-b526-444f2546a091" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Knowledge/TEST/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Knowledge/TEST/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Knowledge/TEST/SetList.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Knowledge/java基础/java基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge/java基础/java基础.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/experience/TEST/SetList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/experience/TEST/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/experience/TEST/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/experience/TEST/test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/experience/java基础/java基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/experience/java基础/java基础.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,8 +68,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://E:/java/jdk1.8/src.zip!/java/lang/StringBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-94">
-              <caret line="75" column="19" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
+            <state relative-caret-position="160">
+              <caret line="135" column="16" lean-forward="true" selection-start-line="135" selection-start-column="16" selection-end-line="135" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/java/jdk1.8/src.zip!/java/lang/AbstractStringBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="443" column="33" selection-start-line="443" selection-start-column="33" selection-end-line="443" selection-end-column="33" />
+              <folding>
+                <element signature="e#15923#15924#0" expanded="true" />
+                <element signature="e#15973#15974#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,8 +91,20 @@
         <entry file="file://$PROJECT_DIR$/Knowledge/java基础/java基础.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="461">
-                <caret line="138" column="22" lean-forward="true" selection-start-line="138" selection-start-column="22" selection-end-line="138" selection-end-column="22" />
+              <first_editor relative-caret-position="258">
+                <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="134">
+                <caret line="56" selection-start-line="56" selection-end-line="56" selection-end-column="29" />
               </first_editor>
               <second_editor />
             </state>
@@ -115,10 +131,10 @@
         <option value="$PROJECT_DIR$/Knowledge/计算机网络/应用层.md" />
         <option value="$PROJECT_DIR$/Knowledge/java基础/相关知识点/ceil、floor、round.md" />
         <option value="$PROJECT_DIR$/Knowledge/TEST/Test.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Knowledge/TEST/SetList.java" />
         <option value="$PROJECT_DIR$/Knowledge/TEST/test.java" />
         <option value="$PROJECT_DIR$/Knowledge/TEST/1.txt" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Knowledge/java基础/java基础.md" />
       </list>
     </option>
@@ -189,7 +205,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572104855713" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572105183867" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -278,19 +294,19 @@
       <workItem from="1571984991099" duration="8010000" />
       <workItem from="1572010150543" duration="18236000" />
       <workItem from="1572074673030" duration="14302000" />
-      <workItem from="1572096513130" duration="3924000" />
+      <workItem from="1572096513130" duration="4228000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74585000" />
+    <option name="totallyTimeSpent" value="74889000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="33" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.07038123" visible="true" weight="0.30294907" />
-      <window_info id="Structure" order="1" sideWeight="0.9296188" side_tool="true" weight="0.30294907" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.105960265" visible="true" weight="0.30294907" />
+      <window_info id="Structure" order="1" sideWeight="0.89403975" side_tool="true" visible="true" weight="0.30294907" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -307,7 +323,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32991204" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33674964" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33577713" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -510,16 +526,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1508">
-            <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/Collection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1216">
@@ -567,13 +573,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Knowledge/TEST/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2860">
@@ -598,6 +597,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="872" column="48" selection-start-line="872" selection-start-column="48" selection-end-line="872" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knowledge/TEST/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="378" column="38" lean-forward="true" selection-start-line="378" selection-start-column="24" selection-end-line="378" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -636,25 +642,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Knowledge/TEST/1.txt">
+    <entry file="jar://E:/java/jdk1.8/src.zip!/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="378" column="38" lean-forward="true" selection-start-line="378" selection-start-column="24" selection-end-line="378" selection-end-column="38" />
+        <state relative-caret-position="160">
+          <caret line="135" column="16" lean-forward="true" selection-start-line="135" selection-start-column="16" selection-end-line="135" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/java/jdk1.8/src.zip!/java/lang/StringBuilder.java">
+    <entry file="jar://E:/java/jdk1.8/src.zip!/java/lang/AbstractStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-94">
-          <caret line="75" column="19" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
+        <state relative-caret-position="134">
+          <caret line="443" column="33" selection-start-line="443" selection-start-column="33" selection-end-line="443" selection-end-column="33" />
+          <folding>
+            <element signature="e#15923#15924#0" expanded="true" />
+            <element signature="e#15973#15974#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knowledge/TEST/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="134">
+            <caret line="56" selection-start-line="56" selection-end-line="56" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Knowledge/java基础/java基础.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="461">
-            <caret line="138" column="22" lean-forward="true" selection-start-line="138" selection-start-column="22" selection-end-line="138" selection-end-column="22" />
+          <first_editor relative-caret-position="258">
+            <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
           </first_editor>
           <second_editor />
         </state>
