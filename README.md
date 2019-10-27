@@ -54,7 +54,9 @@
 
 - final、finally、finalize 的区别？
 
-#### 集合
+[集合](/Knowledge/Java_SE/集合/集合.md)
+
+- HashMap实现原理(底层数据结构)？
 
 #### 多线程
 
