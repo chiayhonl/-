@@ -1,19 +1,15 @@
 package TEST;
 
 public class test{
-
+    public static String reverse(String originStr) {
+        if(originStr == null || originStr.length() <= 1)
+            return originStr;
+        return reverse(originStr.substring(1)) + originStr.charAt(0);
+    }
 
     public static void main(String[] args) {
-        String str1 = "hello";
-        String str2 = " world";
-
-        String str3 = "hello" + " world";
-        String str4 = str1 + str2;
-
-        System.out.println(str3 == str4.intern());
-
-
-
+        String str1 = "abcdefg";
+        System.out.println(reverse(str1));
     }
 
 

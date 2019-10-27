@@ -1,19 +1,17 @@
 # 知识总结
 
-## 一. java SE部分
+## 一. java SE
 
-[1. java基础](/Knowledge/java基础/0、java基础.md)
-
-[关于java](/Knowledge/java基础/1、关于java.md)
+[关于java](/Knowledge/Java_SE/Java基础/1、关于java.md)
 
 - JVM JDK JRE的区别?
 
 - 源代码到运行的步骤？
 
-[数据类型](/Knowledge/java基础/2、数据类型.md)
+[数据类型](/Knowledge/Java_SE/Java基础/2、数据类型.md)
 
 
-- ***基本数据类型有多少种?***
+- 基本数据类型有多少种？
 
 
 - String是基本数据类型吗？
@@ -30,7 +28,7 @@
 
 - switch是否能作用在byte上，是否能作用在long上，是否能作用在String上？
 
-[运算符与数学函数](/Knowledge/java基础/3、运算符与数学函数.md)
+[运算符与数学函数](/Knowledge/Java_SE/Java基础/3、运算符与数学函数.md)
 
 
 - 2乘以8 最有效率的方法？
@@ -43,8 +41,8 @@
 
 
 - 取模和取余?
-
-[面向对象](/Knowledge/java基础/4、面向对象.md)
+  
+[面向对象](/Knowledge/Java_SE/Java基础/4、面向对象.md)
 
 - 面向对象三大特性？
 
@@ -58,21 +56,23 @@
 
 #### 集合
 
-## 二. 集合
+#### 多线程
 
-## 三. 多线程
+#### io
 
-## 四. jvm
+#### jvm
 
-## 五. io
 
-## 六. 数据库
 
-## 七. 网络基础
+## 二. 数据库
+
+## 三. 计算机网络
+
+## 四. Linux
 
 [1. 计算机概述](/Knowledge/计算机网络/计算机概述.md)
 
-[2. 物理层](/Knowledge/计算机网络/传输层.md)
+[2. 物理层](/计算机网络/3、传输层.md)
 
-[3. 应用层](/Knowledge/计算机网络/应用层.md)
+[3. 应用层](/计算机网络/5、应用层.md)
 
