@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04ac1375-e822-4afc-b526-444f2546a091" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Knowledge/Java_SE/JVM/1、运行时数据区.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge/Java_SE/JVM/2、垃圾回收.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge/Java_SE/JVM/3、类加载机制.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge/Java_SE/JVM/4、JVM故障处理&amp;调优.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge/Java_SE/JVM/5、内存模型.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge/TEST/DeadLockDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Knowledge/Java_SE/集合/集合.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge/Java_SE/集合/集合.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge/Java_SE/Java基础/4、面向对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge/Java_SE/Java基础/4、面向对象.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge/TEST/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/experience/Java_SE/Java基础/4、面向对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/experience/Java_SE/Java基础/4、面向对象.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/experience/TEST/test.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,20 +31,20 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Knowledge/TEST/test.java">
+        <entry file="file://$PROJECT_DIR$/Knowledge/TEST/DeadLockDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="52">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/集合/集合.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="252">
-                <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+              <first_editor relative-caret-position="123">
+                <caret line="10" column="26" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="26" />
               </first_editor>
               <second_editor />
             </state>
@@ -45,8 +55,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="286">
-                <caret line="56" column="16" lean-forward="true" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
+              <first_editor relative-caret-position="449">
+                <caret line="79" selection-start-line="79" selection-end-line="79" />
               </first_editor>
               <second_editor />
             </state>
@@ -54,7 +64,55 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/production/experience/计算机网络/2、数据链路层.md">
+        <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/1、运行时数据区.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="52">
+                <caret line="2" column="11" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/3、类加载机制.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="208">
+                <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/2、垃圾回收.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="468">
+                <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/4、JVM故障处理&amp;调优.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="208">
+                <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/5、内存模型.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -64,64 +122,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="654">
-              <caret line="652" column="54" lean-forward="true" selection-start-line="652" selection-start-column="54" selection-end-line="652" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#19327#19328#0" expanded="true" />
-                <element signature="e#19410#19411#0" expanded="true" />
-                <element signature="e#24331#24332#0" expanded="true" />
-                <element signature="e#24396#24397#0" expanded="true" />
-                <element signature="e#31056#31057#0" expanded="true" />
-                <element signature="e#31094#31095#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/LinkedHashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="157" column="16" selection-start-line="157" selection-start-column="16" selection-end-line="157" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/HashSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="218" column="19" selection-start-line="218" selection-start-column="19" selection-end-line="218" selection-end-column="19" />
-              <folding>
-                <element signature="e#5324#5325#0" expanded="true" />
-                <element signature="e#5376#5377#0" expanded="true" />
-                <element signature="e#8064#8065#0" expanded="true" />
-                <element signature="e#8112#8113#0" expanded="true" />
-                <element signature="e#13254#13255#0" expanded="true" />
-                <element signature="e#13331#13332#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/AbstractSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="119" column="15" selection-start-line="119" selection-start-column="15" selection-end-line="119" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/Java基础/4、面向对象.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="267">
-                <caret line="77" column="54" selection-start-line="77" selection-start-column="54" selection-end-line="77" selection-end-column="54" />
+              <first_editor relative-caret-position="253">
+                <caret line="70" column="34" selection-start-line="70" selection-start-column="34" selection-end-line="70" selection-end-column="34" />
               </first_editor>
               <second_editor />
             </state>
@@ -159,10 +164,16 @@
         <option value="$PROJECT_DIR$/Knowledge/java基础/0、java基础.md" />
         <option value="$PROJECT_DIR$/Knowledge/Java_SE/Java基础/2、数据类型.md" />
         <option value="$PROJECT_DIR$/Knowledge/Java_SE/Java基础/3、运算符与数学函数.md" />
-        <option value="$PROJECT_DIR$/Knowledge/TEST/test.java" />
-        <option value="$PROJECT_DIR$/Knowledge/Java_SE/Java基础/4、面向对象.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Knowledge/Java_SE/集合/集合.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Knowledge/TEST/test.java" />
+        <option value="$PROJECT_DIR$/Knowledge/TEST/ConcurrencyTest.java" />
+        <option value="$PROJECT_DIR$/Knowledge/Java_SE/Java基础/4、面向对象.md" />
+        <option value="$PROJECT_DIR$/Knowledge/Java_SE/JVM/4、内存模型.md" />
+        <option value="$PROJECT_DIR$/Knowledge/Java_SE/JVM/1、运行时数据区.md" />
+        <option value="$PROJECT_DIR$/Knowledge/Java_SE/JVM/2、垃圾回收.md" />
+        <option value="$PROJECT_DIR$/Knowledge/Java_SE/JVM/4、JVM故障处理&amp;调优.md" />
+        <option value="$PROJECT_DIR$/Knowledge/Java_SE/JVM/3、类加载机制.md" />
       </list>
     </option>
   </component>
@@ -178,27 +189,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="experience" type="b2602c69:ProjectViewProjectNode" />
-              <item name="experience" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="experience" type="b2602c69:ProjectViewProjectNode" />
-              <item name="experience" type="462c0819:PsiDirectoryNode" />
-              <item name="Knowledge" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="experience" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -222,6 +212,20 @@
               <item name="experience" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="Knowledge" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="Java_SE" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Java基础" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="experience" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="experience" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="Knowledge" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Java_SE" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="JVM" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="experience" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="experience" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="Knowledge" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Java_SE" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="集合" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
@@ -234,12 +238,33 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="experience" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experience" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="experience" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experience" type="462c0819:PsiDirectoryNode" />
+              <item name="Knowledge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="experience" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572175831674" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572262362510" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -248,11 +273,11 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\PROJECT\experience\Knowledge\其他文件" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\PROJECT\experience\Knowledge\Java_SE\Java基础" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PROJECT\experience\Knowledge\其他文件" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -267,9 +292,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="SetList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TEST.SetList" />
+  <component name="RunManager" selected="Application.DeadLockDemo">
+    <configuration name="ConcurrencyTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TEST.ConcurrencyTest" />
       <module name="experience" />
       <extension name="coverage">
         <pattern>
@@ -281,8 +306,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TEST.Test" />
+    <configuration name="ConcurrencyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConcurrencyTest" />
+      <module name="experience" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeadLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TEST.DeadLockDemo" />
+      <module name="experience" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TEST.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TEST.SetList" />
       <module name="experience" />
       <extension name="coverage">
         <pattern>
@@ -309,9 +354,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeadLockDemo" />
+        <item itemvalue="Application.ConcurrencyTest (1)" />
+        <item itemvalue="Application.ConcurrencyTest" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.SetList" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -336,18 +383,19 @@
       <workItem from="1571984991099" duration="8010000" />
       <workItem from="1572010150543" duration="18236000" />
       <workItem from="1572074673030" duration="14302000" />
-      <workItem from="1572096513130" duration="23771000" />
+      <workItem from="1572096513130" duration="29779000" />
+      <workItem from="1572260730202" duration="1431000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94432000" />
+    <option name="totallyTimeSpent" value="101871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="33" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.08617594" visible="true" weight="0.21313673" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.08617594" visible="true" weight="0.21581769" />
       <window_info id="Structure" order="1" sideWeight="0.9138241" side_tool="true" weight="0.21313673" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -357,7 +405,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32991204" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32991204" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.26099706" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.47800586" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.398827" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -365,7 +413,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32991204" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.4208211" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.4208211" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -377,43 +425,11 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.0952381" visible="true" weight="0.21313673" />
-      <window_info id="Structure" order="1" sideWeight="0.9047619" side_tool="true" visible="true" weight="0.21313673" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.89403975" side_tool="true" weight="0.21313673" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32991204" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.32991204" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.26099706" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.398827" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32991204" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.28445747" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Knowledge/计算机网络/网络层/md.java" />
     <entry file="file://$PROJECT_DIR$/Knowledge/计算机网络/面试题/md.java" />
     <entry file="file://$PROJECT_DIR$/Knowledge/计算机网络/5、应用层.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -652,16 +668,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Knowledge/java基础/0、java基础.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1300">
-            <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Knowledge/java基础/0、java基础.md" />
     <entry file="file://$PROJECT_DIR$/Knowledge/计算机网络/4、传输层.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -690,13 +697,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Knowledge/TEST/1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="378" column="38" lean-forward="true" selection-start-line="378" selection-start-column="24" selection-end-line="378" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Knowledge/TEST/1.txt" />
     <entry file="jar://E:/java/jdk1.8/src.zip!/java/lang/AbstractStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
@@ -769,20 +770,13 @@
               <point x="0.0" y="15.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-98.92429022082024" y="126.59779179810727" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-99.0" y="127.0" />
           <SelectedNodes>
             <node>java.io.Serializable</node>
           </SelectedNodes>
           <Categories />
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/AbstractSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="119" column="15" selection-start-line="119" selection-start-column="15" selection-end-line="119" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -797,21 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
           <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="218" column="19" selection-start-line="218" selection-start-column="19" selection-end-line="218" selection-end-column="19" />
-          <folding>
-            <element signature="e#5324#5325#0" expanded="true" />
-            <element signature="e#5376#5377#0" expanded="true" />
-            <element signature="e#8064#8065#0" expanded="true" />
-            <element signature="e#8112#8113#0" expanded="true" />
-            <element signature="e#13254#13255#0" expanded="true" />
-            <element signature="e#13331#13332#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -832,20 +811,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/Java基础/4、面向对象.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="267">
-            <caret line="77" column="54" selection-start-line="77" selection-start-column="54" selection-end-line="77" selection-end-column="54" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/LinkedHashMap.java">
+    <entry file="file://$PROJECT_DIR$/Knowledge/其他文件/HashMap_put.jpg" />
+    <entry file="file://$PROJECT_DIR$/Knowledge/TEST/DeadLockDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="157" column="16" selection-start-line="157" selection-start-column="16" selection-end-line="157" selection-end-column="16" />
+        <state relative-caret-position="52">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -859,8 +829,8 @@
     </entry>
     <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="654">
-          <caret line="652" column="54" lean-forward="true" selection-start-line="652" selection-start-column="54" selection-end-line="652" selection-end-column="54" />
+        <state relative-caret-position="15756">
+          <caret line="652" column="54" selection-start-line="652" selection-start-column="54" selection-end-line="652" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#19327#19328#0" expanded="true" />
@@ -873,31 +843,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="286">
-            <caret line="56" column="16" lean-forward="true" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
+    <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3406">
+          <caret line="157" column="16" selection-start-line="157" selection-start-column="16" selection-end-line="157" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Knowledge/其他文件/HashMap_put.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Knowledge/TEST/test.java">
+    <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/HashSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="4680">
+          <caret line="218" column="19" selection-start-line="218" selection-start-column="19" selection-end-line="218" selection-end-column="19" />
+          <folding>
+            <element signature="e#5324#5325#0" expanded="true" />
+            <element signature="e#5376#5377#0" expanded="true" />
+            <element signature="e#8064#8065#0" expanded="true" />
+            <element signature="e#8112#8113#0" expanded="true" />
+            <element signature="e#13254#13255#0" expanded="true" />
+            <element signature="e#13331#13332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/AbstractSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2496">
+          <caret line="119" column="15" selection-start-line="119" selection-start-column="15" selection-end-line="119" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/Java基础/4、面向对象.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="253">
+            <caret line="70" column="34" selection-start-line="70" selection-start-column="34" selection-end-line="70" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/集合/集合.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="252">
-            <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <first_editor relative-caret-position="123">
+            <caret line="10" column="26" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="449">
+            <caret line="79" selection-start-line="79" selection-end-line="79" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/2、垃圾回收机制.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/5、内存模型.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/1、运行时数据区.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="52">
+            <caret line="2" column="11" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/2、垃圾回收.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="468">
+            <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/4、JVM故障处理&amp;调优.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="208">
+            <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/3、类加载机制.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="208">
+            <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
           </first_editor>
           <second_editor />
         </state>
