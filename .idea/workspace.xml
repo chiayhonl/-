@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="04ac1375-e822-4afc-b526-444f2546a091" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Knowledge/Java_SE/JVM/1、运行时数据区.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge/Java_SE/JVM/1、运行时数据区.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Knowledge/Java_SE/JVM/2、垃圾回收.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge/Java_SE/JVM/2、垃圾回收.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/Knowledge/TEST/test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="104">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="18" selection-end-column="50" />
+              <caret line="4" selection-start-line="4" selection-end-line="18" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -33,7 +32,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://E:/java/jdk1.8/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
+            <state relative-caret-position="14378">
               <caret line="598" column="25" selection-start-line="598" selection-start-column="25" selection-end-line="598" selection-end-column="25" />
               <folding>
                 <element signature="e#4677#4678#0" expanded="true" />
@@ -71,8 +70,8 @@
         <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/集合/集合.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="390">
-                <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="30" />
+              <first_editor relative-caret-position="780">
+                <caret line="30" column="30" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="30" />
               </first_editor>
               <second_editor />
             </state>
@@ -82,8 +81,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://E:/java/jdk1.8/src.zip!/java/lang/StringBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="77" column="24" lean-forward="true" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
+            <state relative-caret-position="1404">
+              <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -92,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1760">
+              <first_editor relative-caret-position="3224">
                 <caret line="124" column="39" selection-start-line="124" selection-start-column="39" selection-end-line="124" selection-end-column="39" />
               </first_editor>
               <second_editor />
@@ -104,8 +103,8 @@
         <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/1、运行时数据区.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="224">
-                <caret line="100" column="21" lean-forward="true" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
+              <first_editor relative-caret-position="2600">
+                <caret line="100" column="21" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -116,8 +115,8 @@
         <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/2、垃圾回收.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="267">
-                <caret line="74" column="76" selection-start-line="74" selection-start-column="76" selection-end-line="74" selection-end-column="76" />
+              <first_editor relative-caret-position="418">
+                <caret line="169" column="16" selection-start-line="169" selection-start-column="16" selection-end-line="169" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -215,7 +214,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,65 +234,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="experience" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="experience" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="experience" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="experience" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name=".idea" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="experience" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="experience" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="Knowledge" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="experience" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="experience" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="Knowledge" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Java_SE" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="experience" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="experience" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="Knowledge" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Java_SE" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="JVM" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="experience" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="experience" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="Knowledge" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Java_SE" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="集合" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="experience" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="experience" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="Knowledge" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="TEST" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="experience" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="experience" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="Knowledge" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="其他文件" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572344806753" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572358694139" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -415,18 +362,19 @@
       <workItem from="1572074673030" duration="14302000" />
       <workItem from="1572096513130" duration="29779000" />
       <workItem from="1572260730202" duration="5064000" />
-      <workItem from="1572330916633" duration="11138000" />
+      <workItem from="1572330916633" duration="11491000" />
+      <workItem from="1572355632195" duration="3012000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116642000" />
+    <option name="totallyTimeSpent" value="120007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="33" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.102639295" visible="true" weight="0.19705094" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.102639295" visible="true" weight="0.1997319" />
       <window_info id="Structure" order="1" sideWeight="0.8973607" side_tool="true" weight="0.19705094" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -444,7 +392,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32991204" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.26832846" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.27565983" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -865,37 +813,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/4、JVM故障处理&amp;调优.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="208">
-            <caret line="8" column="23" selection-start-column="5" selection-end-line="8" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/5、内存模型.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/Java基础/4、面向对象.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1820">
-            <caret line="70" column="34" selection-start-line="70" selection-start-column="34" selection-end-line="70" selection-end-column="34" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/Knowledge/TEST/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" selection-start-line="4" selection-end-line="18" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="jar://E:/java/jdk1.8/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
+        <state relative-caret-position="14378">
           <caret line="598" column="25" selection-start-line="598" selection-start-column="25" selection-end-line="598" selection-end-column="25" />
           <folding>
             <element signature="e#4677#4678#0" expanded="true" />
@@ -928,35 +855,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/java/jdk1.8/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="77" column="24" lean-forward="true" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
+    <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/集合/集合.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="780">
+            <caret line="30" column="30" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Knowledge/TEST/test.java">
+    <entry file="jar://E:/java/jdk1.8/src.zip!/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="18" selection-end-column="50" />
+        <state relative-caret-position="1404">
+          <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1760">
+          <first_editor relative-caret-position="3224">
             <caret line="124" column="39" selection-start-line="124" selection-start-column="39" selection-end-line="124" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/集合/集合.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="390">
-            <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="30" />
           </first_editor>
           <second_editor />
         </state>
@@ -965,8 +885,36 @@
     <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/1、运行时数据区.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="224">
-            <caret line="100" column="21" lean-forward="true" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
+          <first_editor relative-caret-position="2600">
+            <caret line="100" column="21" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/4、JVM故障处理&amp;调优.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="208">
+            <caret line="8" column="23" selection-start-column="5" selection-end-line="8" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/5、内存模型.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/Java基础/4、面向对象.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1820">
+            <caret line="70" column="34" selection-start-line="70" selection-start-column="34" selection-end-line="70" selection-end-column="34" />
           </first_editor>
           <second_editor />
         </state>
@@ -975,8 +923,8 @@
     <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/2、垃圾回收.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="267">
-            <caret line="74" column="76" selection-start-line="74" selection-start-column="76" selection-end-line="74" selection-end-column="76" />
+          <first_editor relative-caret-position="418">
+            <caret line="169" column="16" selection-start-line="169" selection-start-column="16" selection-end-line="169" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
