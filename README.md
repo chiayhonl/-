@@ -2,6 +2,8 @@
 
 ## 一. java SE
 
+#### java基础
+
 [关于java](/Knowledge/Java_SE/Java基础/1、关于java.md)
 
 - JVM JDK JRE的区别?
@@ -61,6 +63,13 @@
 - HashMap中put方法和get方法逻辑？
 
 #### 多线程
+
+[多线程基础](/Knowledge/Java_SE/多线程/1、多线程基础%20.md)
+
+[多线程设计模式](/Knowledge/Java_SE/多线程/2、多线程设计模式.md)
+
+[多线程并发包](/Knowledge/Java_SE/多线程/3、多线程并发包.md)
+
 
 #### io
 

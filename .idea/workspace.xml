@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04ac1375-e822-4afc-b526-444f2546a091" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Knowledge/Java_SE/多线程/1、多线程基础 .md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge/Java_SE/多线程/2、多线程设计模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knowledge/Java_SE/多线程/3、多线程并发包.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Knowledge/Java_SE/JVM/2、垃圾回收.md" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge/Java_SE/JVM/2、垃圾回收.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knowledge/TEST/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Knowledge/TEST/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,100 +27,72 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Knowledge/TEST/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="4" selection-start-line="4" selection-end-line="18" selection-end-column="50" />
+            <state relative-caret-position="52">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/java/jdk1.8/src.zip!/java/lang/String.java">
+        <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14378">
-              <caret line="598" column="25" selection-start-line="598" selection-start-column="25" selection-end-line="598" selection-end-column="25" />
+            <state relative-caret-position="192">
+              <caret line="1484" column="17" selection-start-line="1484" selection-start-column="17" selection-end-line="1484" selection-end-column="17" />
               <folding>
-                <element signature="e#4677#4678#0" expanded="true" />
-                <element signature="e#4714#4715#0" expanded="true" />
-                <element signature="e#21961#21962#0" expanded="true" />
-                <element signature="e#22041#22042#0" expanded="true" />
-                <element signature="e#36393#36394#0" expanded="true" />
-                <element signature="e#36459#36460#0" expanded="true" />
-                <element signature="e#38369#38370#0" expanded="true" />
-                <element signature="e#38423#38424#0" expanded="true" />
-                <element signature="e#104675#104676#0" expanded="true" />
-                <element signature="e#104730#104731#0" expanded="true" />
-                <element signature="e#111196#111197#0" expanded="true" />
-                <element signature="e#111251#111252#0" expanded="true" />
-                <element signature="e#113343#113344#0" expanded="true" />
-                <element signature="e#113370#113371#0" expanded="true" />
-                <element signature="e#117893#117894#0" expanded="true" />
-                <element signature="e#117955#117956#0" expanded="true" />
-                <element signature="e#118405#118406#0" expanded="true" />
-                <element signature="e#118444#118445#0" expanded="true" />
-                <element signature="e#120889#120890#0" expanded="true" />
-                <element signature="e#120932#120933#0" expanded="true" />
-                <element signature="e#121727#121728#0" expanded="true" />
-                <element signature="e#121769#121770#0" expanded="true" />
-                <element signature="e#122184#122185#0" expanded="true" />
-                <element signature="e#122223#122224#0" expanded="true" />
-                <element signature="e#122645#122646#0" expanded="true" />
-                <element signature="e#122685#122686#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#19327#19328#0" expanded="true" />
+                <element signature="e#19410#19411#0" expanded="true" />
+                <element signature="e#24331#24332#0" expanded="true" />
+                <element signature="e#24396#24397#0" expanded="true" />
+                <element signature="e#31056#31057#0" expanded="true" />
+                <element signature="e#31094#31095#0" expanded="true" />
+                <element signature="e#66928#66929#0" expanded="true" />
+                <element signature="e#66985#66986#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/集合/集合.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="780">
-                <caret line="30" column="30" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="30" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/java/jdk1.8/src.zip!/java/lang/StringBuilder.java">
+        <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/Hashtable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1404">
-              <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
+            <state relative-caret-position="504">
+              <caret line="150" column="16" selection-start-line="150" selection-start-column="16" selection-end-line="150" selection-end-column="16" />
+              <folding>
+                <element signature="e#7731#7732#0" expanded="true" />
+                <element signature="e#7775#7776#0" expanded="true" />
+                <element signature="e#7926#7927#0" expanded="true" />
+                <element signature="e#7957#7958#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="3224">
-                <caret line="124" column="39" selection-start-line="124" selection-start-column="39" selection-end-line="124" selection-end-column="39" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/1、运行时数据区.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2600">
-                <caret line="100" column="21" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
-              </first_editor>
-              <second_editor />
+        <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1342">
+              <caret line="1014" column="38" selection-start-line="1014" selection-start-column="38" selection-end-line="1014" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;class#ConcurrentHashMap#0" />
+                <element signature="e#32334#32335#0" expanded="true" />
+                <element signature="e#32385#32386#0" expanded="true" />
+                <element signature="e#44347#44348#0" expanded="true" />
+                <element signature="e#44395#44396#0" expanded="true" />
+                <element signature="e#65240#65241#0" expanded="true" />
+                <element signature="e#65287#65288#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/2、垃圾回收.md">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="418">
-                <caret line="169" column="16" selection-start-line="169" selection-start-column="16" selection-end-line="169" selection-end-column="16" />
+              <first_editor relative-caret-position="260">
+                <caret line="70" column="7" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -124,19 +100,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/4、JVM故障处理&amp;调优.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="208">
-                <caret line="8" column="23" selection-start-column="5" selection-end-line="8" selection-end-column="23" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/5、内存模型.md">
+        <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/多线程/1、多线程基础 .md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -146,13 +110,42 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/Java基础/4、面向对象.md">
+        <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/多线程/2、多线程设计模式.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1820">
-                <caret line="70" column="34" selection-start-line="70" selection-start-column="34" selection-end-line="70" selection-end-column="34" />
-              </first_editor>
+              <first_editor />
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/多线程/3、多线程并发包.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/java/jdk1.8/src.zip!/java/lang/Comparable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="95" column="30" selection-start-line="95" selection-start-column="30" selection-end-line="95" selection-end-column="30" />
+              <folding>
+                <element signature="docComment;method#compareTo#0;class#Comparable#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/java/jdk1.8/src.zip!/java/io/Serializable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="170" selection-start-line="170" selection-end-line="170" />
             </state>
           </provider>
         </entry>
@@ -194,11 +187,11 @@
         <option value="$PROJECT_DIR$/Knowledge/Java_SE/JVM/4、内存模型.md" />
         <option value="$PROJECT_DIR$/Knowledge/Java_SE/JVM/4、JVM故障处理&amp;调优.md" />
         <option value="$PROJECT_DIR$/Knowledge/Java_SE/JVM/3、类加载机制.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Knowledge/TEST/DeadLockDemo.java" />
-        <option value="$PROJECT_DIR$/Knowledge/TEST/test.java" />
         <option value="$PROJECT_DIR$/Knowledge/Java_SE/JVM/1、运行时数据区.md" />
         <option value="$PROJECT_DIR$/Knowledge/Java_SE/JVM/2、垃圾回收.md" />
+        <option value="$PROJECT_DIR$/Knowledge/TEST/test.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -235,13 +228,34 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="experience" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="experience" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="experience" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="experience" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="Knowledge" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="experience" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="experience" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="Knowledge" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Java_SE" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572358694139" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572436906091" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -340,7 +354,7 @@
     </recent_temporary>
   </component>
   <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,SHOW_PROPERTIES" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -363,24 +377,23 @@
       <workItem from="1572096513130" duration="29779000" />
       <workItem from="1572260730202" duration="5064000" />
       <workItem from="1572330916633" duration="11491000" />
-      <workItem from="1572355632195" duration="3012000" />
+      <workItem from="1572355632195" duration="12865000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120007000" />
+    <option name="totallyTimeSpent" value="129860000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="33" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.102639295" visible="true" weight="0.1997319" />
-      <window_info id="Structure" order="1" sideWeight="0.8973607" side_tool="true" weight="0.19705094" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.102073364" visible="true" weight="0.1997319" />
+      <window_info id="Structure" order="1" sideWeight="0.8979266" side_tool="true" weight="0.1997319" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.9125214" side_tool="true" weight="0.21581769" />
+      <window_info id="Favorites" order="6" sideWeight="0.8979266" side_tool="true" weight="0.1997319" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32991204" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32991204" />
@@ -392,7 +405,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32991204" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.27565983" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3372434" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -409,75 +422,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Knowledge/计算机网络/面试题/md.java" />
-    <entry file="file://$PROJECT_DIR$/Knowledge/计算机网络/5、应用层.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="130">
-            <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Knowledge/计算机网络/计算机概述.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1248">
-            <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Knowledge/计算机网络/2、数据链路层.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Knowledge/计算机网络/3、网络层.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Knowledge/计算机网络/面试题.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/experience.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://E:/java/jdk1.8/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2541">
-          <caret line="1050" column="22" selection-start-line="1050" selection-start-column="22" selection-end-line="1050" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk1.8/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20670">
-          <caret line="828" column="26" selection-start-line="828" selection-start-column="26" selection-end-line="828" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/java/jdk1.8/src.zip!/java/lang/Iterable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-467">
@@ -646,13 +590,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/java/jdk1.8/src.zip!/java/io/Serializable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="164" column="27" lean-forward="true" selection-start-line="164" selection-start-column="27" selection-end-line="164" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/AbstractMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -757,22 +694,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15756">
-          <caret line="652" column="54" selection-start-line="652" selection-start-column="54" selection-end-line="652" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#19327#19328#0" expanded="true" />
-            <element signature="e#19410#19411#0" expanded="true" />
-            <element signature="e#24331#24332#0" expanded="true" />
-            <element signature="e#24396#24397#0" expanded="true" />
-            <element signature="e#31056#31057#0" expanded="true" />
-            <element signature="e#31094#31095#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/LinkedHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3406">
@@ -813,48 +734,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Knowledge/TEST/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" selection-start-line="4" selection-end-line="18" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk1.8/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14378">
-          <caret line="598" column="25" selection-start-line="598" selection-start-column="25" selection-end-line="598" selection-end-column="25" />
-          <folding>
-            <element signature="e#4677#4678#0" expanded="true" />
-            <element signature="e#4714#4715#0" expanded="true" />
-            <element signature="e#21961#21962#0" expanded="true" />
-            <element signature="e#22041#22042#0" expanded="true" />
-            <element signature="e#36393#36394#0" expanded="true" />
-            <element signature="e#36459#36460#0" expanded="true" />
-            <element signature="e#38369#38370#0" expanded="true" />
-            <element signature="e#38423#38424#0" expanded="true" />
-            <element signature="e#104675#104676#0" expanded="true" />
-            <element signature="e#104730#104731#0" expanded="true" />
-            <element signature="e#111196#111197#0" expanded="true" />
-            <element signature="e#111251#111252#0" expanded="true" />
-            <element signature="e#113343#113344#0" expanded="true" />
-            <element signature="e#113370#113371#0" expanded="true" />
-            <element signature="e#117893#117894#0" expanded="true" />
-            <element signature="e#117955#117956#0" expanded="true" />
-            <element signature="e#118405#118406#0" expanded="true" />
-            <element signature="e#118444#118445#0" expanded="true" />
-            <element signature="e#120889#120890#0" expanded="true" />
-            <element signature="e#120932#120933#0" expanded="true" />
-            <element signature="e#121727#121728#0" expanded="true" />
-            <element signature="e#121769#121770#0" expanded="true" />
-            <element signature="e#122184#122185#0" expanded="true" />
-            <element signature="e#122223#122224#0" expanded="true" />
-            <element signature="e#122645#122646#0" expanded="true" />
-            <element signature="e#122685#122686#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/集合/集合.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -869,16 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1404">
           <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3224">
-            <caret line="124" column="39" selection-start-line="124" selection-start-column="39" selection-end-line="124" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -923,8 +792,216 @@
     <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/JVM/2、垃圾回收.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="418">
-            <caret line="169" column="16" selection-start-line="169" selection-start-column="16" selection-end-line="169" selection-end-column="16" />
+          <first_editor relative-caret-position="340">
+            <caret line="175" column="16" selection-start-line="175" selection-start-column="16" selection-end-line="175" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.lang.String">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.lang.String</OriginalElement>
+          <nodes>
+            <node x="272.0" y="0.0">java.lang.CharSequence</node>
+            <node x="133.0" y="0.0">java.lang.Comparable</node>
+            <node x="151.0" y="80.0">java.lang.String</node>
+            <node x="0.0" y="0.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.lang.String" target="java.lang.Comparable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.lang.String" target="java.io.Serializable">
+              <point x="-27.666666666666686" y="-15.0" />
+              <point x="164.83333333333331" y="55.0" />
+              <point x="56.5" y="55.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.lang.String" target="java.lang.CharSequence">
+              <point x="27.666666666666657" y="-15.0" />
+              <point x="220.16666666666666" y="55.0" />
+              <point x="338.0" y="55.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-155.0" y="86.5" />
+          <SelectedNodes>
+            <node>java.io.Serializable</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8/src.zip!/java/io/Serializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="170" selection-start-line="170" selection-end-line="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="111" column="62" selection-start-line="111" selection-start-column="62" selection-end-line="111" selection-end-column="62" />
+          <folding>
+            <element signature="e#4677#4678#0" expanded="true" />
+            <element signature="e#4714#4715#0" expanded="true" />
+            <element signature="e#21961#21962#0" expanded="true" />
+            <element signature="e#22041#22042#0" expanded="true" />
+            <element signature="e#36393#36394#0" expanded="true" />
+            <element signature="e#36459#36460#0" expanded="true" />
+            <element signature="e#38369#38370#0" expanded="true" />
+            <element signature="e#38423#38424#0" expanded="true" />
+            <element signature="e#104675#104676#0" expanded="true" />
+            <element signature="e#104730#104731#0" expanded="true" />
+            <element signature="e#111196#111197#0" expanded="true" />
+            <element signature="e#111251#111252#0" expanded="true" />
+            <element signature="e#113343#113344#0" expanded="true" />
+            <element signature="e#113370#113371#0" expanded="true" />
+            <element signature="e#117893#117894#0" expanded="true" />
+            <element signature="e#117955#117956#0" expanded="true" />
+            <element signature="e#118405#118406#0" expanded="true" />
+            <element signature="e#118444#118445#0" expanded="true" />
+            <element signature="e#120889#120890#0" expanded="true" />
+            <element signature="e#120932#120933#0" expanded="true" />
+            <element signature="e#121727#121728#0" expanded="true" />
+            <element signature="e#121769#121770#0" expanded="true" />
+            <element signature="e#122184#122185#0" expanded="true" />
+            <element signature="e#122223#122224#0" expanded="true" />
+            <element signature="e#122645#122646#0" expanded="true" />
+            <element signature="e#122685#122686#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="95" column="30" selection-start-line="95" selection-start-column="30" selection-end-line="95" selection-end-column="30" />
+          <folding>
+            <element signature="docComment;method#compareTo#0;class#Comparable#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8/src.zip!/java/lang/CharSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="117" column="4" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;method#length#0;class#CharSequence#0" />
+            <element signature="docComment;method#charAt#0;class#CharSequence#0" />
+            <element signature="docComment;method#subSequence#0;class#CharSequence#0" />
+            <element signature="docComment;method#toString#0;class#CharSequence#0" />
+            <element signature="docComment;method#chars#0;class#CharSequence#0" />
+            <element signature="method#chars#0;class#CharSequence#0" />
+            <element signature="docComment;method#codePoints#0;class#CharSequence#0" />
+            <element signature="method#codePoints#0;class#CharSequence#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knowledge/TEST/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="150" column="16" selection-start-line="150" selection-start-column="16" selection-end-line="150" selection-end-column="16" />
+          <folding>
+            <element signature="e#7731#7732#0" expanded="true" />
+            <element signature="e#7775#7776#0" expanded="true" />
+            <element signature="e#7926#7927#0" expanded="true" />
+            <element signature="e#7957#7958#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="1484" column="17" selection-start-line="1484" selection-start-column="17" selection-end-line="1484" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#19327#19328#0" expanded="true" />
+            <element signature="e#19410#19411#0" expanded="true" />
+            <element signature="e#24331#24332#0" expanded="true" />
+            <element signature="e#24396#24397#0" expanded="true" />
+            <element signature="e#31056#31057#0" expanded="true" />
+            <element signature="e#31094#31095#0" expanded="true" />
+            <element signature="e#66928#66929#0" expanded="true" />
+            <element signature="e#66985#66986#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="108" column="23" selection-start-line="108" selection-start-column="23" selection-end-line="108" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1342">
+          <caret line="1014" column="38" selection-start-line="1014" selection-start-column="38" selection-end-line="1014" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#ConcurrentHashMap#0" />
+            <element signature="e#32334#32335#0" expanded="true" />
+            <element signature="e#32385#32386#0" expanded="true" />
+            <element signature="e#44347#44348#0" expanded="true" />
+            <element signature="e#44395#44396#0" expanded="true" />
+            <element signature="e#65240#65241#0" expanded="true" />
+            <element signature="e#65287#65288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/多线程/1、多线程基础.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/多线程/1、多线程基础 .md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/多线程/2、多线程设计模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knowledge/Java_SE/多线程/3、多线程并发包.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="260">
+            <caret line="70" column="7" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
           </first_editor>
           <second_editor />
         </state>
