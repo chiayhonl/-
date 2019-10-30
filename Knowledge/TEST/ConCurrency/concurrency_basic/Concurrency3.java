@@ -6,7 +6,7 @@ package TEST.ConCurrency.concurrency_basic;
  * @author Chiayhon
  * @create 2019 - 10 - 30
  */
-public class Concurrentcy3 {
+public class Concurrency3 {
     public static void main(String[] args) {
         new Bank1().start();
 //        new Bank2().start();
