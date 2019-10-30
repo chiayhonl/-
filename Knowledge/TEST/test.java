@@ -1,13 +1,10 @@
 package TEST;
 
-import java.util.HashMap;
-
 public class test{
     public static void main(String[] args) {
         String str1 = "hello";
         String str2 = " world";
 
-        HashMap
         String str3 = str1 + str2;
         str3.intern();
 
