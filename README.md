@@ -2,7 +2,7 @@
 
 ## 一. java SE
 
-#### java基础
+### java基础
 
 [关于java](/Knowledge/Java_SE/Java基础/1、关于java.md)
 
@@ -62,7 +62,7 @@
 
 - HashMap中put方法和get方法逻辑？
 
-#### 多线程
+### 多线程
 
 [多线程基础](/Knowledge/Java_SE/多线程/1、多线程基础%20.md)
 
@@ -71,9 +71,9 @@
 [多线程并发包](/Knowledge/Java_SE/多线程/3、多线程并发包.md)
 
 
-#### io
+### io
 
-#### jvm
+### jvm
 
 [运行时数据区](/Knowledge/Java_SE/JVM/1、运行时数据区.md)
 
